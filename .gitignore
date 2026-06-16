@@ -1,0 +1,12 @@
+*.zip
+*.7z
+*.rar
+*.xp3
+*.xdelta
+*.gde
+*.exe
+*.dll
+*.jsonl
+*.log
+assets/
+tmp/
