@@ -14,11 +14,7 @@ the original game developers or publishers.
 | Project | Latest tag | Asset |
 | --- | --- | --- |
 | Luv Wave English patch | [`luvwave-english-patch-v0.1.3`](https://github.com/b2kdaman/oldvnkeeper-releases/releases/tag/luvwave-english-patch-v0.1.3) | `luvwave-english-patch-v0.1.3.zip` |
-| Luv Wave patcher UI | [`luvwave-rust-patcher-ui-v0.2.2`](https://github.com/b2kdaman/oldvnkeeper-releases/releases/tag/luvwave-rust-patcher-ui-v0.2.2) | `luvwave-rust-patcher-ui-v0.2.2-windows-x64.zip` |
 | Edelweiss English patch | [`edelweiss-patch-v0.1.2`](https://github.com/b2kdaman/oldvnkeeper-releases/releases/tag/edelweiss-patch-v0.1.2) | `edelweiss-xdelta-patch-v0.1.2.zip` |
-
-Older Luv Wave patch and patcher UI releases are also mirrored in this
-repository's GitHub Releases.
 
 Luv Wave releases are MTL/AI-assisted fan translation patches with manual
 repair, distributed as patch tooling and fitted translation data for a
